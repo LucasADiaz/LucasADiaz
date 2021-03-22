@@ -8,7 +8,7 @@
   competent for today's market.
   Currently I play the role of
   full-stack developer at ISC (Company of
-  Software | Chili).
+  Software | Chile).
 
 
 - Soy Lucas Agustín Diaz, soy
