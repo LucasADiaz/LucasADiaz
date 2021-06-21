@@ -7,8 +7,7 @@
   cutting-edge technologies in order to be
   competent for today's market.
   Currently I play the role of
-  full-stack developer at ISC (Company of
-  Software | Chile).
+  Software Development Analyst - Mercado Libre.
 
 
 - Soy Lucas Agustín Diaz, soy
@@ -20,6 +19,5 @@
   tecnologías de punta con el fin de ser
   competente para el mercado actual.
   Actualmente desempeño el papel de
-  desarrollador full-stack en ISC (Empresa de
-  Software | Chile).
+  Software Development Analyst - Mercado Libre
 
